@@ -1,0 +1,4 @@
+gan_ref_00csv.ipynb
+对00csv文件做了数据生成处理（GAN）
+并对生成的数据做了空数值的处理，对于接近-110的数值，令其等于-110
+使用MLP做了real_data和real_data+Synthetic_data分类效果的对比

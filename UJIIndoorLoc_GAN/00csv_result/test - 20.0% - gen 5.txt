@@ -1,0 +1,22 @@
+Original Data (Each Class: 3 Real):
+Accuracy mean: 0.5053459137678147
+Loss mean: 2.6351082722345986
+Accuracy STD: 0.013818598277738478
+Loss STD: 0.0987261606620912 
+
+Maximum Accuracy: 0.5283018946647644
+Loss of Maximum Accuracy: 2.3486902713775635
+
+ ================== 
+
+Original + GAN Data(Each Class: 3 Real + 5 GAN):
+Accuracy mean: 0.48113207519054413
+Loss mean: 0.06143057035903136
+Accuracy STD: 0.01587972483493827
+Loss STD: 0.00158435342742135 
+
+Maximum Accuracy: 0.5094339847564697
+Loss of Maximum Accuracy: 0.06252426654100418
+
+
+训练集loss和验证集loss相差较大，前者正常，后者下降缓慢，且到15轮时，开始loss上升
