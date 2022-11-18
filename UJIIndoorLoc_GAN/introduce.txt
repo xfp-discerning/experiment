@@ -1,4 +1,12 @@
-gan_ref_00csv.ipynb
+gan_ref_00csv_v1.ipynb
 对00csv文件做了数据生成处理（GAN）
 并对生成的数据做了空数值的处理，对于接近-110的数值，令其等于-110
 使用MLP做了real_data和real_data+Synthetic_data分类效果的对比
+
+gan_ref_00csv_v2.ipynb
+去掉列平均值为-110的列，使得特征为119维，减少参数量，并加入了Dropout防止过拟合
+
+
+gan_ref_00csv_v3.ipynb
+去掉列平均值为-110的列，使得特征为119维，减少参数量，
+并打算加入Kpca进行特征维度的一个提高
