@@ -1,0 +1,6 @@
+KNN_classification.ipynb
+K=1时，精度达到了0.726。此种分类方法精度最高
+对去掉均值-110的列的新数据集（剩余119），无任何效果
+去掉均值小于-109的列（剩余53）：
+k = 1  the accurancy is: 0.7044, and it cost 0.0020 s
+k = 3  the accurancy is: 0.7170, and it cost 0.0010 s
