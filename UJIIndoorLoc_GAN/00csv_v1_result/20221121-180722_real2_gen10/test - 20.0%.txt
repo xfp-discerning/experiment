@@ -1,0 +1,19 @@
+Original Data (Each Class: 2 Real):
+Accuracy mean: 0.38899370829264324
+Loss mean: 2.876338752110799
+Accuracy STD: 0.013045578899039645
+Loss STD: 0.07475035515698182 
+
+Maximum Accuracy: 0.4292452931404114
+Loss of Maximum Accuracy: 2.7948219776153564
+
+ ================== 
+
+Original + GAN Data(Each Class: 2 Real + 10 GAN):
+Accuracy mean: 0.42845911979675294
+Loss mean: 0.08913081834713618
+Accuracy STD: 0.016879648781211773
+Loss STD: 0.0024534962031784856 
+
+Maximum Accuracy: 0.4669811427593231
+Loss of Maximum Accuracy: 0.0847875326871872
