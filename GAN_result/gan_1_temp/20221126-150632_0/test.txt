@@ -1,0 +1,19 @@
+Accuracy mean: 0.7146226406097412
+Loss mean: 1.1402337074279785
+Accuracy STD: 0.015537435382422452
+Loss STD: 0.03756731129117948 
+
+Maximum Accuracy: 0.7358490824699402
+Loss of Maximum Accuracy: 1.121645212173462
+
+
+ ================== 
+
+Accuracy mean: 0.7433962285518646
+Loss mean: 1.169833493232727
+Accuracy STD: 0.0237915407174638
+Loss STD: 0.061775904810350044 
+
+Maximum Accuracy: 0.7924528121948242
+Loss of Maximum Accuracy: 1.0967644453048706
+

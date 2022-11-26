@@ -1,0 +1,22 @@
+LeakyReLU(alpha=0.2)
+
+Accuracy mean: 0.7226415157318116
+Loss mean: 1.0933330059051514
+Accuracy STD: 0.02538418772197233
+Loss STD: 0.061918483916295376 
+
+Maximum Accuracy: 0.75
+Loss of Maximum Accuracy: 1.0414021015167236
+acc of the knn: 0.7783018867924528
+
+ ================== 
+LeakyReLU(alpha=0.2)
+
+Accuracy mean: 0.7349056601524353
+Loss mean: 1.362882661819458
+Accuracy STD: 0.00864636123535874
+Loss STD: 0.08713702983416534 
+
+Maximum Accuracy: 0.7452830076217651
+Loss of Maximum Accuracy: 1.4153156280517578
+acc of the knn: 0.7924528301886793

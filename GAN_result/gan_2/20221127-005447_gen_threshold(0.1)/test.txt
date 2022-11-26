@@ -1,0 +1,21 @@
+Accuracy mean: 0.675943398475647
+Loss mean: 1.1948461055755615
+Accuracy STD: 0.017144123852983684
+Loss STD: 0.03510405402271273 
+
+Maximum Accuracy: 0.698113203048706
+Loss of Maximum Accuracy: 1.1836402416229248
+
+acc of the KNN: 0.7783
+
+ ================== 
+
+Accuracy mean: 0.7287735998630523
+Loss mean: 1.343948495388031
+Accuracy STD: 0.01717007131232272
+Loss STD: 0.05160699738329197 
+
+Maximum Accuracy: 0.7594339847564697
+Loss of Maximum Accuracy: 1.271563172340393
+
+acc of the KNN: 0.7877

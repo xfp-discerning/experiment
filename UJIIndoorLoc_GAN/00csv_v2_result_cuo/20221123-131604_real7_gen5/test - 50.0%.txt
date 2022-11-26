@@ -1,0 +1,22 @@
+Original Data (Each Class: 7 Real):
+Accuracy mean: 0.5642557660738627
+Loss mean: 1.6337413946787516
+Accuracy STD: 0.02262816039184199
+Loss STD: 0.07232946269446891 
+
+Maximum Accuracy: 0.6100628972053528
+Loss of Maximum Accuracy: 1.5081404447555542
+
+ ================== 
+
+Original + GAN Data(Each Class: 7 Real + 5 GAN):
+Accuracy mean: 0.5650943358739217
+Loss mean: 0.05055560568968455
+Accuracy STD: 0.01394918065742821
+Loss STD: 0.0008731919042184987 
+
+Maximum Accuracy: 0.5943396091461182
+Loss of Maximum Accuracy: 0.049535345286130905
+
+
+精度变得比较稳定。acc方差变小，提升鲁棒性
